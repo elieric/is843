@@ -5,7 +5,7 @@ Note: this is for command line message. If you are using github desktop app, you
 2. Clone the project to your local repository:
 `git clone https://github.com/elieric/is843.git`
 
-3. Enter `ls` tolist your documents, you should see the project `is843` 
+3. Enter `ls` to list your documents, you should see the project `is843` 
 
 4. Get into the project:
 `cd is843`
