@@ -5,7 +5,7 @@ Note: this is for command line message. If you are using github desktop app, you
 2. Clone the project to your local repository:
 `git clone https://github.com/elieric/is843.git`
 
-3. Enter `ls` to list your documents, you should see the project `is843` 
+3. Enter `ls` to list your documents, you should see the project repo `is843` 
 
 4. Get into the project:
 `cd is843`
@@ -20,7 +20,7 @@ Note: this is for command line message. If you are using github desktop app, you
 
 8. Working on your notebook 
 
-9. Download the editted note book to replace the original one
+9. Download the revised notebook file to replace the original one
 
 10. Commit to local branch `git commit -m "some message here"`
 
